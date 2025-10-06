@@ -5,13 +5,13 @@
 ## ⚡ Быстрая установка
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/ВАШ_USERNAME/server-setup/main/web-install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/xfce0/server-setup/main/web-install.sh)
 ```
 
 или через wget:
 
 ```bash
-bash <(wget -qO- https://raw.githubusercontent.com/ВАШ_USERNAME/server-setup/main/web-install.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/xfce0/server-setup/main/web-install.sh)
 ```
 
 ## 📦 Что устанавливается
@@ -47,7 +47,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/ВАШ_USERNAME/server-setup/
 
 1. Скачайте скрипт:
 ```bash
-wget https://raw.githubusercontent.com/ВАШ_USERNAME/server-setup/main/web-install.sh
+wget https://raw.githubusercontent.com/xfce0/server-setup/main/web-install.sh
 ```
 
 2. Сделайте исполняемым:
@@ -125,11 +125,3 @@ sudo apt install python3-dev build-essential
 ## 📄 Лицензия
 
 Свободное использование
-
-## 🤝 Вклад
-
-Приветствуются pull requests и issues!
-
----
-
-**Замените `ВАШ_USERNAME` на ваш реальный GitHub username перед загрузкой!**
